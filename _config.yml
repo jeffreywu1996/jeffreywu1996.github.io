@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+future: true
+
+# Setup
+title:               Jeffrey Wu
+tagline:             'A Blog.'
+description:         'I write about random things, from programming stuff, to photography, to food.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+gems: [jekyll-paginate]
+paginate:            5
+
+# About/contact
+author:
+  name:              Jeffrey Wu
+  url:               https://www.linkedin.com/in/jeffreywu1996
+  email:             jeffreywu1996@gmail.com
+
+# Custom vars
+version:             1.0.0
