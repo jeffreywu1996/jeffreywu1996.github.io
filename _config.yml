@@ -9,7 +9,7 @@ title:               Jeffrey Wu
 tagline:             'A Blog.'
 description:         'I write about random things, from programming stuff, to photography, to food.'
 url:                 http://jeffreywu1996.github.io
-baseurl:             '/blog'
+baseurl:             ''
 gems: [jekyll-paginate]
 paginate:            5
 
