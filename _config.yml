@@ -1,15 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+#permalink:           pretty
+permalink:           /:categories/:title/
 future: true
 
 # Setup
 title:               Jeffrey Wu
 tagline:             'A Blog.'
 description:         'I write about random things, from programming stuff, to photography, to food.'
-url:                 http://jeffreywu1996.github.io
-baseurl:             ''
+#url:                 http://jeffreywu1996.github.io
+#baseurl:             ''
 gems: [jekyll-paginate]
 paginate:            5
 
