@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to use ssh keys
+category: Code
+tags: [ssh, code]
 ---
 
 
