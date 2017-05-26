@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wow it's been a while
+category: Misc
 ---
 
 
