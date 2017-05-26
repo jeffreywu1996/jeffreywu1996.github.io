@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Found a new color scheme
+category: Misc
 ---
 
 Today I found a new color scheme while playing around the settings on my sublime text.
