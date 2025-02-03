@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Found a new color scheme
+title: Found a New Color Scheme
 category: Misc
 ---
 
-Today I found a new color scheme while playing around the settings on my sublime text.
-The theme is called [Ayu](https://github.com/dempfi/ayu).
-It looks so slick and soothing so just want to share it.
+Today, I discovered a new color scheme while experimenting with settings in Sublime Text. The theme, called [Ayu](https://github.com/dempfi/ayu), looks sleek and soothing, and I wanted to share it.
 
-Now I am debating whether I should switch my vim color scheme from [Tomorrow-Night](https://github.com/chriskempson/tomorrow-theme) to [Ayu](https://github.com/ayu-theme/ayu-vim).
+Now I'm debating whether to switch my Vim color scheme from [Tomorrow-Night](https://github.com/chriskempson/tomorrow-theme) to [Ayu](https://github.com/ayu-theme/ayu-vim).

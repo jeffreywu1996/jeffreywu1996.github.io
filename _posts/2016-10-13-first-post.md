@@ -6,9 +6,7 @@ category: Misc
 
 
 <div class="message">
-  Hi! This is the first post I will make with Jeykl!
+  Hi! This is the first post on my blog.
 </div>
 
-I am gonna start this blog writting about what I do.
-
-Not sure what to write for now, but it has taken me so much time getting to setup and really use this jekyll thing. Hopefully it will be worth the effort.
+I'm excited to start this blog and share what I do. Although I'm not entirely sure what to write at the moment, I've dedicated a lot of time to setting up and learning Jekyll. I hope all the effort proves worthwhile.

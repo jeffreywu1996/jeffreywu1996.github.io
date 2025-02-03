@@ -1,16 +1,17 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#future:              true
+permalink: pretty
+# Enable future posts if desired:
+# future: true
 
 # Setup
 title:               Jeffrey Wu
-tagline:             'A Blog.'
-description:         'I write about random things, from programming stuff, to photography, to food.'
-url:                 http://jeffreywu1996.github.io
-baseurl:             ''
-gems:                [jekyll-paginate]
+tagline:             "A Blog."
+description:         "I write about random things, from programming stuff to photography and food."
+url:                 https://jeffreywu1996.github.io
+baseurl:             ""
+plugins:             [jekyll-paginate]
 paginate:            5
 
 # About/contact

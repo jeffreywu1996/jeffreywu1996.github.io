@@ -4,15 +4,13 @@ title: About Me
 ---
 
 <p class="message">
-  Hey there! This is a blog where I post about random things from my life that I want to share with everyone.
+  Hey there! Welcome to my blog, where I share insights on programming, homelab projects, photography, and more.
 </p>
 
-Main reason I created this blog is to learn how Jeykll works, I took the theme Lanyon as a template and write random post here.
+I created this blog as a platform to learn more about Jekyll and to express my passion for technology and creativity—all built on the [Lanyon](https://github.com/poole/lanyon) theme.
 
-## Who am I
+## Who Am I?
 
-I am a student studying Computer Science at UCSD. I love to code, though, I keep getting myself so busy with random activities that I found myself stopped coding for fun.
+I'm a Computer Science student at UCSD with a deep passion for coding. While I often get busy with a variety of interests, this blog helps me reconnect with my love for technology and share my journey with you.
 
-I want to get back this passion of coding for fun. And hopefully thru blogging, I will want to learn new things about this field and share with you guys on this blog.
-
-TODO: more about myself.
+*More about me coming soon!*
