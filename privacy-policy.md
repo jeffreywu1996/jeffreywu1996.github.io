@@ -3,8 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 This privacy policy describes how we collect, use, and handle your information when you use our applications and services.
 
 ## Information Collection and Use
